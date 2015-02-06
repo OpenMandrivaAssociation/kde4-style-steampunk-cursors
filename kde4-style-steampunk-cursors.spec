@@ -1,7 +1,7 @@
 Summary:	"SteampunK Powered Linux" mouse cursors theme
 Name:		kde4-style-steampunk-cursors
 Version:	3.0
-Release:	1
+Release:	2
 License:	Creative Commons Attribution-ShareAlike
 Group:		Graphical desktop/KDE
 Url:		http://kde-look.org/content/show.php?content=161001
