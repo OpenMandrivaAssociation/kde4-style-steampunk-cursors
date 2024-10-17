@@ -4,7 +4,7 @@ Version:	3.0
 Release:	2
 License:	Creative Commons Attribution-ShareAlike
 Group:		Graphical desktop/KDE
-Url:		http://kde-look.org/content/show.php?content=161001
+Url:		https://kde-look.org/content/show.php?content=161001
 Source0:	http://kde-look.org/CONTENT/content-files/161001-SteampunK.tar.gz
 BuildArch:	noarch
 
